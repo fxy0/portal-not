@@ -27,5 +27,5 @@ Portal not formu modülünü, portal web uygulamasına eklemek için /portal diz
 
 Kullanıcı Paneli:http://portal.kouosl/not
 
-<img src="http://prntscr.com/m3fpgy">
+![portal](https://user-images.githubusercontent.com/32413273/50727411-812d3400-112b-11e9-9baf-966cfa61df32.png)
 
