@@ -13,6 +13,6 @@ $this->params['breadcrumbs'][] = $this->title;
 	 
 		
 		<br/>
-        <p><a class="btn btn-lg btn-success" href="/not/notes/">Notlar</a>
+        <p><a class="btn btn-lg btn-success" href="/not/notes/create">Notlar</a>
 		
 </div>
