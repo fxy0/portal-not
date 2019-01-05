@@ -23,3 +23,9 @@ Portal not formu modülünü, portal web uygulamasına eklemek için /portal diz
 
 
 ```
+
+
+Kullanıcı Paneli:http://portal.kouosl/not
+
+<img src="http://prntscr.com/m3fpgy">
+
